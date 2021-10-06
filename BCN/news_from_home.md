@@ -1,4 +1,4 @@
-# News from Home
+# News from Home, after scan with changes
 This project focuses on the memories contained within the urban environment of Sant Andreu, and to present these as "audio postcards".
 
 When they travel with the 'News From Home' project  to any particular location, Anne and Luke are interested in exploring beyond or in the shadows of the iconic landmarks. They believe that it is there that they can find a richness of stories, worth providing a platform for. To achieve this, they use the term *soundmark* (used in soundscape studies) to refer to a community sound which is unique, or which possesses qualities that make it especially regarded or noticed by the people in that community.
@@ -14,6 +14,6 @@ For the exhibition, their objective is to create sonic postcards. With the sound
 ![Anne Fehres and Luke Conroy SoOC Residency 4](https://www.idensitat.net/images/ID_PROJECTES_EUROPEUS/SOOC_2019_2021/Anne_Fehres_and_Luke_Conroy_-_SoOC_Residency_4.jpg){ width=32% }
 ![Anne Fehres and Luke Conroy SoOC Residency 5](https://www.idensitat.net/images/ID_PROJECTES_EUROPEUS/SOOC_2019_2021/Anne_Fehres_and_Luke_Conroy_-_SoOC_Residency_5.jpg){width="32%" height="177"}![Anne Fehres and Luke Conroy SoOC Residency 2](https://www.idensitat.net/images/ID_PROJECTES_EUROPEUS/SOOC_2019_2021/Anne_Fehres_and_Luke_Conroy_-_SoOC_Residency_2.jpg){width="32%" height="177"}
 
-### Bio 
+### Bio, after changes
 
 Anne Fehres and Luke Conroy are Netherlands-based artists who have worked collaboratively since 2016. Anne graduated with a Bachelor of Arts in Audiovisual Arts from the Royal Art Academy of Ghent, Belgium in 2013. Luke graduated in 2013 with a Bachelor of Arts with First Class Honours from the University of Tasmania.Together, the duo  focus on a variety of eclectic multidisciplinary projects that are grounded in research and exploration of social subjects, taking form through photography, digital art, sound, video, and installation. 
