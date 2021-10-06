@@ -10,6 +10,6 @@ The project begun with an open call that offered a residence to 10 artists (5 to
 ## Work Context
 
 - [Sant Andreu in Barcelona](./BCN/)
-  - [News from Home](./BCN/news-from-home/) 
+  - [News from Home](./BCN/news_from_home/) 
 - [Krottegem in Roeselare](./RSL/)
 
