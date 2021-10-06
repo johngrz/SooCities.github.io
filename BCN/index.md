@@ -1,11 +1,12 @@
 # BARCELONA
 
+*A grid for works? Info about the city in general*
+
 ## Anne and Luke - News From Home
 Residency on site. From 22nd of
-October to 10th of November in Barcelona 2020 **
+October to 10th of November in Barcelona 2020 
 
-![Anne Fehres and Luke Conroy SoOC Residency
-6](https://www.idensitat.net/images/ID_PROJECTES_EUROPEUS/SOOC_2019_2021/Anne_Fehres_and_Luke_Conroy_-_SoOC_Residency_6.jpg){width="32%" height="200"}
+<img src="https://www.idensitat.net/images/ID_PROJECTES_EUROPEUS/SOOC_2019_2021/Anne_Fehres_and_Luke_Conroy_-_SoOC_Residency_6.jpg" width="32%" height="200">
 
 This project focuses on the memories contained within the urban environment of Sant Andreu, and to present these as "audio postcards".
 
@@ -26,14 +27,9 @@ For the exhibition, their objective is to create sonic postcards. With the sound
 Anne Fehres and Luke Conroy are Netherlands-based artists who have worked collaboratively since 2016. Anne graduated with a Bachelor of Arts in Audiovisual Arts from the Royal Art Academy of Ghent, Belgium in 2013. Luke graduated in 2013 with a Bachelor of Arts with First Class Honours from the University of Tasmania.Together, the duo  focus on a variety of eclectic multidisciplinary projects that are grounded in research and exploration of social subjects, taking form through photography, digital art, sound, video, and installation. 
 
 
-## Donia Jourabchi / Remote residency: Workshop as part of her residency
--- 2, 9 and 16 of December 2020 **
+## Donia Jourabchi / Remote residency: Workshop as part of her residency -- 2, 9 and 16 of December 2020
 
-**![TRAN SOUND ID
-BR](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMDAiIGhlaWdodD0iMjkwIj48L3N2Zz4=){.jch-lazyload
-width="300" height="290"}![TRAN SOUND ID
-BR](https://static.idensitat.net/images/ID_PROJECTES_EUROPEUS/SOOC_2019_2021/TRAN-SOUND_ID_BR.jpg){width="300"
-height="290"}
+<img src="https://static.idensitat.net/images/ID_PROJECTES_EUROPEUS/SOOC_2019_2021/TRAN-SOUND_ID_BR.jpg">
 
 In the case of Donia Jourabchi, because she was unable to travel to Barcelona, we decided to realise the residency remotely. So we took advantage of the possibilities granted by the internet, and we launched an online workshop combining off-site exercises with online group meetings in which every participant might share their knowledge and experience. 
 
