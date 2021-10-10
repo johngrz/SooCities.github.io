@@ -12,7 +12,7 @@ The second shift in focus was towards exploring sound as an imaginative tool. In
 As part of the project, five sound works were created which can be accessed online. Alongside each sound work, a postcard was produced which features a visual design relating to the sound on the front and a QR-Code on the back directing the audience to the online works.
 
 While being an audio project first and foremost, the physical and visual form of the postcard serves as an entry point to accessing the sound pieces. The intention of these physical postcards is that they will provide the opportunity to send the sound works around the local community and abroad. These postcards also have the capacity to be a platform for the sender to include their own written reflection on the sounds of their city, adding additional input and layers of meaning to the project.
-
+![](https://drive.google.com/file/d/1hKtZW0b4oFaCPgduL0u9MZvWOlPDT5nN/view?usp=sharing)
 ## Postcards
 - [The Butanero](./TheButanero.md)
 - [The Pigeon](./ThePigeon.md)
