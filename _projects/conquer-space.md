@@ -19,7 +19,8 @@ residency is the production of a sound piece.
 ![A garden](/assets/images/rsl-cons-1.png)
 ![A passage](/assets/images/rsl-cons-2.jpg)
 ![Flower photos](/assets/images/rsl-cons-4.jpg)
-# Bio
+
+##### Bio
 Martí Madaula Esquirol, holds a degree in Fine Arts from the University
 of Barcelona and a Master of Visual Arts from LUCA School of Arts in
 Ghent, Belgium. He is currently working on the publication of his master
