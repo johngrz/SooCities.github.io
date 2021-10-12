@@ -1,1 +1,17 @@
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
+
+domain: SooCities.github.io
+url: https://SooCities.github.io/
+baseurl: ""
+title: Sounds of our Cities
+
+collections:
+  cities:
+    output: true
+    permalink: /:name
+  projects:
+    output: true
+    permalink: /project/:name
+  subpages:
+    output: true
+    permalink: /project/subpage/:name

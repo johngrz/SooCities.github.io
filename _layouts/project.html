@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<div class="row mt-5">
+    
+    <div class="col-12">
+        <h2 class="display-4">{{page.project_name}}</h2>
+        <h2 class="display-6">{{page.project_author}}</h2>
+        {{ content }}
+    </div>
+    
+    {% include subpage_listing.html %}
+
+</div>

@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+{% assign projects = site.projects | where:'city_short', page.city_short %}
+
+<div class="row mt-5">
+    <div class="col-12">
+        <h2 class="display-4">{{page.city_name}}</h2>
+        {{ content }}
+        <h2 class="mt-5 display-6">The Works</h2>
+    </div>
+</div>
+
+<div class="row">
+    {% for project in projects %}
+        {% include card.html 
+            name = project.project_name
+            thumb = project.project_thumb
+            url = project.url %}
+    {% endfor %}
+</div>
