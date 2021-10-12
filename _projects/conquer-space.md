@@ -17,8 +17,8 @@ critical reflection on intimate spaces, among other issues, taking this
 research as a starting point. One of the outcomes expected from this
 residency is the production of a sound piece.
 ![A garden](/assets/images/rsl-cons-1.png)
-![A passage](/assets/images/rsl-cons-2.png)
-![Flower photos](/assets/images/rsl-cons-4.png)
+![A passage](/assets/images/rsl-cons-2.jpg)
+![Flower photos](/assets/images/rsl-cons-4.jpg)
 # Bio
 Martí Madaula Esquirol, holds a degree in Fine Arts from the University
 of Barcelona and a Master of Visual Arts from LUCA School of Arts in
