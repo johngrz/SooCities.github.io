@@ -2,3 +2,4 @@ _site
 .jekyll-cache
 SooCities.code-workspace
 Gemfile.lock
+*.DS_Store
