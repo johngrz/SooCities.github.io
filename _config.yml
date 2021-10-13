@@ -14,4 +14,4 @@ collections:
     permalink: /project/:name
   subpages:
     output: true
-    permalink: /project/subpage/:name
+    permalink: /project/:name
