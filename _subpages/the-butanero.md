@@ -14,7 +14,16 @@ The butane bottle is used by some residents of Sant Andreu for heating and cooki
 The job of the butanero is typically occupied by migrants to the city - often from Pakistan or Morocco. It’s a job that doesn’t pay well, with most butaneros relying on their tips alone in order to make a living. On top of this, it is also a profession that is slowly fading away, as apartment infrastructure gets upgraded to built-in gas. This shouting and the clang of metal, significant to the soundscape, culture and economy of the community in Sant Andreu, may soon be lost.
 
 # Testing native audio
-![Listen native](/assets/audio/bcn-nfh-1.mp3)
+![Listen native]("/assets/audio/bcn-nfh-1.mp3")
+
+Testing HTML5
+
+<html>
+<audio controls>
+   <source src="/assets/audio/bcn-nfh-1.mp3" type="audio/mp3">
+   <p>Your browser does not support HTML5 audio</p>
+</audio> 
+</html>
 
 Testing iframe
 
