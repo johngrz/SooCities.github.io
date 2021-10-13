@@ -2,14 +2,24 @@
 layout: default
 ---
 
+{% assign subpages = site.subpages | where:'project_short', page.project_short %}
+
+{% if subpages.size > 0 %}
 <div class="row mt-5">
-    
+    <div class="col-9 project">
+        <h2 class="display-4">{{page.project_name}}</h2>
+        <h2 class="display-6">{{page.project_author}}</h2>
+        {{ content }}
+    </div>
+    {% include subpage_listing.html %}
+</div>
+{% else %}
+<div class="row mt-5">
     <div class="col-12 project">
         <h2 class="display-4">{{page.project_name}}</h2>
         <h2 class="display-6">{{page.project_author}}</h2>
         {{ content }}
     </div>
-    
-    {% include subpage_listing.html %}
-
 </div>
+{% endif %}
+
