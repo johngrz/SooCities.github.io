@@ -18,3 +18,11 @@
     font-weight: 300;
     line-height: 1.2;
 }
+
+body.pt-5 {
+    padding-top: 5rem !important;
+}
+
+.breadcrumb-item{
+    font-size: calc(var(--bs-body-font-size)*0.85);
+}

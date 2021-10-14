@@ -1,10 +1,23 @@
 ---
 layout: default
 ---
-<div class="row mt-5">
+
+{% assign cities = site.cities | where:'city_short', page.city_short %}
+{% assign project = site.projects | where:'project_short', page.project_short %}
+
+<nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+      <li class="breadcrumb-item" aria-current="page"><a href="/">Home</a></li>
+      <li class="breadcrumb-item" aria-current="page"><a href="{{cities.first.url}}">{{cities.first.city_name}}</a></li>
+      <li class="breadcrumb-item" aria-current="page"><a href="{{project.first.url}}">{{project.first.project_name}}</a></li>
+      <li class="breadcrumb-item active" aria-current="page">{{page.subpage_name}}</li>
+    </ol>
+</nav>
+
+<div class="row mt-4">
     <div class="col-12 project">
         <h2 class="display-4">{{page.subpage_name}}</h2>
-
+        
     </div>
 </div>
 
