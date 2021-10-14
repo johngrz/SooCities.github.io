@@ -1,14 +1,15 @@
 
-<div class="col-3">
-    <h2  class="display-6">Postcards</h2>
+<div class="row">
+    <h2  class="display-7">Postcards</h2>
     {% for subpage in subpages %}
-    {% include card.html 
-        name = subpage.subpage_name
-        thumb = subpage.subpage_thumb
-        url = subpage.url
-        cardsize = "col-12" %}
-    {% endfor %}
+        {% include card.html 
+            name = subpage.subpage_name
+            thumb = subpage.subpage_thumb
+            url = subpage.url
+            cardsize = "col-6 col-sm-12" %}
+    {% endfor %}        
 </div>
+
 
 
 
