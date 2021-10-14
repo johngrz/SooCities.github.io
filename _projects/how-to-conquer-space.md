@@ -10,7 +10,6 @@ city_short: rsl
 # Dont' change this
 layout: project
 ---
-
 This work focuses on collecting stories and anecdotes from public space or its buildings that relate, in a broad sense, to some of the artist's research interests. This does not mean that the project will necessarily be related to spaces as such, since How to conquer space has many layers and, therefore, many areas of study may be explored, such as the difficulty of feeling at home in a new context, the connection between two separate worlds or places, the revision of official narratives, a critical reflection on intimate spaces, among other issues, taking this
 research as a starting point. One of the outcomes expected from this residency is the production of a sound piece.
 

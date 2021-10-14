@@ -27,7 +27,7 @@ body.pt-5 {
     font-size: calc(var(--bs-body-font-size)*0.85);
 }
 
-.carousel-item img {
+.carousel-item img, .fake-carousel-item {
     /* max-height: 200px */
     max-height: calc(150px + 20vw);
 }

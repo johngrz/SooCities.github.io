@@ -2,6 +2,7 @@
 project_name: Researching Social Spaces through Sound
 project_author: DAF (Dynamische Akustische Forschung)
 project_thumb: rsl-rssts-0.jpg
+project_images: rsl-rssts-0.jpg
 
 project_short: rssts
 city_short: rsl
@@ -9,8 +10,6 @@ city_short: rsl
 # Dont' change this
 layout: project
 ---
-![DAF - Researching social spaces through sound](/assets/images/rsl-rssts-0.jpg)
-
 How does sound map the historical memory of a place? Sound reflects the relief of social realities: The innumerable rhythms of a city and the community itself push themselves acoustically into the resonating spaces of their surroundings. This project aims to research what a family, an apartment house, a factory building or a street sound like. The auditory information of a city overlaps to a rhythm which, at the level of hearing, integrates a million different cities in a single city at the same time, and accompanies audiences without a break. Within this context, an acoustic map of places will be created. This sound archive of a city is not intended to illustrate reality, but the continuous reformulation of its characteristics. 
 
 ##### Bio

@@ -2,6 +2,7 @@
 project_name: News from Home
 project_author: Anne Fehres and Luke Conroy
 project_thumb: project_placeholder.png
+project_images: 
 
 project_short: nfh
 city_short: bcn
