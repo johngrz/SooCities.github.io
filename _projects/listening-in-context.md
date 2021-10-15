@@ -2,6 +2,7 @@
 project_name: Listening in Context
 project_author: John Grzinich
 project_thumb: rsl-lic-0.jpg
+project_images: rsl-lic-0.jpg
 
 project_short: lic
 city_short: rsl
@@ -9,8 +10,6 @@ city_short: rsl
 # Dont' change this
 layout: project
 ---
-![John Grzinich - Listening in Context](/assets/images/rsl-lic-0.jpg)
-
 Using the simple idea of creating \'portraits\' of people listening to their city, \'Listening in Context\' investigates the intimate role sound plays in our perception and the connections we make to our surroundings through what we hear. The project involves setting up a simple interaction with the public in public space, to engage people in becoming focused 'listeners\'.
 
 ##### Bio

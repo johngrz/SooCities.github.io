@@ -1,15 +1,15 @@
-{% assign subpages = site.subpages | where:'project_short', page.project_short %}
-{% if subpages.size > 0 %}
-<div class="col-12 mt-5">
-    <h2  class="display-6">Postcards</h2>
+
+<div class="row">
+    <h2  class="display-7">Postcards</h2>
+    {% for subpage in subpages %}
+        {% include card.html 
+            name = subpage.subpage_name
+            thumb = subpage.subpage_thumb
+            url = subpage.url
+            cardsize = "col-6 col-sm-12" %}
+    {% endfor %}        
 </div>
 
-{% for subpage in subpages %}
-{% include card.html 
-    name = subpage.subpage_name
-    thumb = subpage.subpage_thumb
-    url = subpage.url
-    cardsize = "col-md-6" %}
-{% endfor %}
 
-{% endif %}
+
+

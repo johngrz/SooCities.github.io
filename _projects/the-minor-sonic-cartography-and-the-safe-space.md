@@ -2,6 +2,7 @@
 project_name: The Minor Sonic Cartography and the Safe Space
 project_author: Banu Çiçek Tülü
 project_thumb: rsl-msc-0.jpg
+project_images: rsl-msc-0.jpg
 
 project_short: msc
 city_short: rsl
@@ -9,8 +10,6 @@ city_short: rsl
 # Dont' change this
 layout: project
 ---
-![Banu Çiçek Tülü - The Minor Sonic Cartography and the Safe Space](/assets/images/rsl-msc-0.jpg)
-
 This project is a guided soundwalk which sets up a critical reflection upon the exclusivity of use of pavements, and how walking upon them can be an act of privilege.\ Walking, such an easy act in everyday life in the city, can be difficult, challenging, uncomfortable, and maybe impossible for certain communities such as women, LGBTQI, minorities, migrants, people with disabilities etc. Pavements can draw attention to the sonic violence (and many other urban problems through listening) that most of the above-mentioned groups confront, such as, cat-calling, sniping, swearing, and verbal harassment, as well as sounding car horns aggressively, and gunning the engines of cars of the roads. Therefore, this project aims to collect the sonic memories of specific groups of citizens, and return these memories to urban space in order to create awareness of a very common issue in our cities.
 
 ##### Bio

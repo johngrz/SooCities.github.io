@@ -9,5 +9,29 @@
 }
 
 .project img {
-    width: 40%;
+    flex: 0 0 auto;
+    width: 32%;
+}
+
+.display-7 {
+    font-size: calc(1.325rem + 1.25vw);
+    font-weight: 300;
+    line-height: 1.2;
+}
+
+body.pt-5 {
+    padding-top: 5rem !important;
+}
+
+.breadcrumb-item{
+    font-size: calc(var(--bs-body-font-size)*0.85);
+}
+
+.carousel-item img, .fake-carousel-item {
+    /* max-height: 200px */
+    max-height: calc(150px + 20vw);
+}
+
+.carousel-control-next, .carousel-control-prev {
+    opacity: 1;
 }

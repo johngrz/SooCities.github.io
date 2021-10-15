@@ -2,6 +2,7 @@
 project_name: Manoeuvres
 project_author: Marta Azparren & Pablo Martín Jones
 project_thumb: rsl-man-0.jpg
+project_images: rsl-man-0.jpg
 
 project_short: man
 city_short: rsl
@@ -9,8 +10,6 @@ city_short: rsl
 # Dont' change this
 layout: project
 ---
-![Marta Azparren & Pablo Martín Jones - Manoeuvres](/assets/images/rsl-man-0.jpg)
-
 Manoeuvres is an artistic project, site-specific, that intervenes in old urban industrial spaces through image and sound. The artists will "listen" to the space of the old factories, and reclaim the story of the productive masses. It is not a nostalgic action, or a revision of past times, it is about inserting temporality, incorporating the past as one more layer to the collective story. The aim is to print the memory imprint of work in the white cube of the artistic space, and to question its neutrality during the process.
 
 ##### Bio
