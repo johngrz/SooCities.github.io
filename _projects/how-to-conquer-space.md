@@ -1,5 +1,5 @@
 ---
-project_name: How to conquer space?
+project_name: To plant a flying garden
 project_author: Martí Madaula Esquirol
 project_thumb: rsl-cons-0.png
 project_images: rsl-cons-1.png, rsl-cons-2.jpg, rsl-cons-4.jpg
