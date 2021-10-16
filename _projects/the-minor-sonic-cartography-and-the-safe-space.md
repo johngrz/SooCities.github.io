@@ -1,5 +1,5 @@
 ---
-project_name: The Minor Sonic Cartography and the Safe Space
+project_name: Signals and Hums
 project_author: Banu Çiçek Tülü
 project_thumb: rsl-msc-0.jpg
 project_images: rsl-msc-0.jpg
