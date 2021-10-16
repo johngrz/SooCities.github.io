@@ -1,12 +1,15 @@
 ---
 subpage_name: The Chimney
-subpage_thumb: subpage_placeholder.png
+subpage_thumb: bcn-nfh-3.jpg
 
 project_short: nfh
 
 # Dont' change this
 layout:  subpage
 ---
+
+<iframe width="100%" height="125" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1141138642&color=%23ff5500&auto_play=true&hide_related=true&show_comments=true&show_user=true&show_reposts=false&show_teaser=false"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/cerkut" title="cerkut" target="_blank" style="color: #cccccc; text-decoration: none;">cerkut</a> · <a href="https://soundcloud.com/cerkut/the-chimney" title="The Chimney" target="_blank" style="color: #cccccc; text-decoration: none;">The Chimney</a></div>
+
 At the beginning of the 20th Century hundreds of active factory chimneys spouted ash over the Barcelona cityscape. The industrialization taking place during this time was particularly notable in Sant Andreu where many textile factories were located.
 
 During this period, these factories formed the heart of the community, not only employing thousands of people but also functioning as the centre for social life through the football fields, tennis courts, childcare and swimming pools they provided. The sounds of the factory became part of city life, with people today recalling fondly the rhythmic symphony of the textile looms, the routine sirens heard across the city signalling the beginning or end of a shift, and the sounds of people moving to and from the factories.
