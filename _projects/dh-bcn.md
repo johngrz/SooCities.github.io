@@ -10,4 +10,4 @@ city_short: bcn
 layout: project
 ---
 
-See more at ![](https://dearhunter.eu/)
+See more at <https://dearhunter.eu>
