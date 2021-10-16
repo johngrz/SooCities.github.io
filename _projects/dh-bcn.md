@@ -1,6 +1,6 @@
 ---
-project_name: Barcelona MAP
-project_author: Deer Hunter
+project_name: Barcelona Map
+project_author: Dear Hunter
 project_thumb: barcelona.png
 
 project_short: dh-bcn
@@ -10,4 +10,4 @@ city_short: bcn
 layout: project
 ---
 
-Project Barcelona Deer Hunter Map.
+See more at [](https://dearhunter.eu/)
