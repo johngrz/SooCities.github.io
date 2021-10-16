@@ -2,7 +2,7 @@
 project_name: News from Home
 project_author: Anne Fehres and Luke Conroy
 project_thumb: bcn-nfh-0.png
-project_images: bcn-nfh-1.jpg, bcn-nfh-2.jpg, bcn-nfh-3.jpg, bcn-nfh-4.jpg, bcn-nfh-5.jpg, bcn-nfh-0.png, 
+project_images: 
 
 project_short: nfh
 city_short: bcn
