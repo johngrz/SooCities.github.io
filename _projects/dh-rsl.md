@@ -1,6 +1,6 @@
 ---
-project_name: roeselare MAP
-project_author: Deer Hunter
+project_name: Roeselare Map
+project_author: Dear Hunter
 project_thumb: roeselare.png
 
 project_short: dh-rsl
@@ -10,4 +10,4 @@ city_short: rsl
 layout: project
 ---
 
-Project Deer Hunter Map.
+See more at <https://dearhunter.eu>
