@@ -1,6 +1,6 @@
 ---
-subpage_name: Manoeuvre 3
-subpage_thumb: rsl-man-small.jpg
+subpage_name: Room 3
+subpage_thumb: rsl-man-room-3.jpg
 
 project_short: man
 
