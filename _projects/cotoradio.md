@@ -2,6 +2,7 @@
 project_name: CotorRadio
 project_author: Raphael Daibert
 project_thumb: bcn-cot8-1.jpeg
+project_images: bcn-cot8-1.jpeg, bcn-cot8-2.jpeg, bcn-cot8-3.jpeg
 
 project_short: cot8
 city_short: bcn
