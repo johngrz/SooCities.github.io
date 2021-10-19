@@ -2,7 +2,7 @@
 project_name: Woodpeckers in the Urban Jungle
 project_author: In-Dialog Collective
 project_thumb:  bcn-woo15-1.jpeg
-project_images: bcn-woo15-1.jpeg, bcn-woo15-2.jpeg 
+project_images: bcn-woo15-1.jpeg, bcn-woo15-2.jpeg, bcn-woo15-0.jpeg 
 
 project_short: woo15
 city_short: bcn
