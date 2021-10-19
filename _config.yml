@@ -6,6 +6,12 @@ baseurl: ""
 title: Sounds of our Cities
 description: SOUNDS OF OUR CITIES is a European project of cultural cooperation based upon research and the transfer of knowledge among the spheres of art, technology and social space.
 
+plugins:
+  - jekyll-redirect-from
+
+whitelist:
+  - jekyll-redirect-from
+
 collections:
   cities:
     output: true
