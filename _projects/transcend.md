@@ -3,6 +3,7 @@ project_name: Transcend
 project_author: Donia Jourabchi
 project_thumb: bcn-tra9-0.jpeg
 project_images: bcn-tra9-0.jpeg, bcn-tra9-1.png
+
 project_short: tra9
 city_short: bcn
 

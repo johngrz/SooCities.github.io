@@ -1,8 +1,9 @@
 ---
 project_name: Unheard and Unseen
 project_author: Zsofia Szonja Illes
-project_thumb: bcn-un13-2.png
-project_images: bcn-un13-0.png, bcn-un13-1.png, bcn-un13-2.png
+project_thumb: bcn-un13-2.jpg
+project_images: bcn-un13-0.jpg, bcn-un13-1.jpg, bcn-un13-2.jpg
+
 project_short: un13
 city_short: bcn
 

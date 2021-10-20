@@ -10,6 +10,7 @@ layout: default
 </nav>
 
 {% assign projects = site.projects | where:'city_short', page.city_short %}
+{% assign projects = projects | sort:'project_order' %}
 
 <div class="row mt-4">
     <div class="col-12">

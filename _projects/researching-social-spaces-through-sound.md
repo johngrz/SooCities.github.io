@@ -2,7 +2,7 @@
 project_name: Researching Social Spaces through Sound
 project_author: DAF (Dynamische Akustische Forschung)
 project_thumb: rsl-rssts-0.jpg
-project_images: rsl-rssts-1.png, rsl-rssts-2.png, rsl-rssts-0.jpg
+project_images: rsl-rssts-1.jpg, rsl-rssts-2.jpg, rsl-rssts-0.jpg
 
 project_short: rssts
 city_short: rsl

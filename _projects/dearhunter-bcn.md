@@ -5,6 +5,7 @@ project_thumb: barcelona.png
 
 project_short: dh-bcn
 city_short: bcn
+project_order: 6
 
 # Dont' change this
 layout: project

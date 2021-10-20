@@ -5,6 +5,7 @@ project_thumb: roeselare.png
 
 project_short: dh-rsl
 city_short: rsl
+project_order: 6
 
 # Dont' change this
 layout: project

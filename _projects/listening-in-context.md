@@ -2,7 +2,7 @@
 project_name: Listening in Context
 project_author: John Grzinich
 project_thumb: rsl-lic-0.jpg
-project_images: rsl-lic-0.jpg, rsl-lic-1.png, rsl-lic-2.png, rsl-lic-3.png
+project_images: rsl-lic-0.jpg, rsl-lic-1.jpg, rsl-lic-2.jpg, rsl-lic-3.jpg
 
 project_short: lic
 city_short: rsl

@@ -1,8 +1,8 @@
 ---
 project_name: To plant a flying garden
 project_author: Martí Madaula Esquirol
-project_thumb: rsl-cons-0.png
-project_images: rsl-cons-0.png, rsl-cons-1.png, rsl-cons-2.jpg, rsl-cons-4.jpg, rsl-cons-5.png
+project_thumb: rsl-cons-0.jpg
+project_images: rsl-cons-0.jpg, rsl-cons-1.jpg, rsl-cons-2.jpg, rsl-cons-4.jpg, rsl-cons-5.jpg
 
 project_short: cons
 city_short: rsl

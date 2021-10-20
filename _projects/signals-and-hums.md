@@ -2,7 +2,7 @@
 project_name: Signals and Hums
 project_author: Banu Çiçek Tülü
 project_thumb: rsl-msc-0.jpg
-project_images: rsl-msc-0.jpg, rsl-msc-1.png, rsl-msc-2.png
+project_images: rsl-msc-0.jpg, rsl-msc-1.jpg, rsl-msc-2.jpg
 
 project_short: msc
 city_short: rsl
