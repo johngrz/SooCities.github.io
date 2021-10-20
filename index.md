@@ -10,4 +10,4 @@ The project begun with an open call that offered a residence to 10 artists (5 to
 - ROESELARE 22-30.10.21 (O.L. Vrouwemarkt, 30 )
 - BARCELONA 11-21.11.21 (Gran de Sant Andreu, 111)
 
-Download the [exhibition catalog](/assets/RSL-booklet-PDFA.pdf), or enter to the digital exhibition through the cartopological maps of the two cities below. 
+Download the [exhibition catalog](/assets/images/RSL-booklet-PDFA.pdf), or enter to the digital exhibition through the cartopological maps of the two cities below. 
