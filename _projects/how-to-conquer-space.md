@@ -1,8 +1,8 @@
 ---
-project_name: To plant a flying garden
+project_name: Com Conquerir L’espai: To plant a flying garden
 project_author: Martí Madaula Esquirol
 project_thumb: rsl-cons-0.png
-project_images: rsl-cons-1.png, rsl-cons-2.jpg, rsl-cons-4.jpg
+project_images: rsl-cons-0.png, rsl-cons-1.png, rsl-cons-2.jpg, rsl-cons-4.jpg, rsl-cons-5.png
 
 project_short: cons
 city_short: rsl
@@ -10,8 +10,12 @@ city_short: rsl
 # Dont' change this
 layout: project
 ---
-This work focuses on collecting stories and anecdotes from public space or its buildings that relate, in a broad sense, to some of the artist's research interests. This does not mean that the project will necessarily be related to spaces as such, since How to conquer space has many layers and, therefore, many areas of study may be explored, such as the difficulty of feeling at home in a new context, the connection between two separate worlds or places, the revision of official narratives, a critical reflection on intimate spaces, among other issues, taking this
-research as a starting point. One of the outcomes expected from this residency is the production of a sound piece.
+A collection of stories and anecdotes, taken from public spaces or gardens, broadly related to seve­ ral of the artist’s research interests. Com conque­ rir l’espai (How to Conquer Space) has many layers to be explored, and many areas of study; the diffi­ culty of feeling at home in a new environment, the connection between two separate worlds or pla­ ces, the revision of official narratives, a critical re­ flection on intimate spaces, among other themes.
+
+Madaula’s point of departure is the bouquet of flowers that his father first collected during the pandemic lockdown, when one of his few reasons to leave home was to water the vegetables in an urban allotment.That bouquet became his only witness that there was life out there. With this
+project, Madaula intends to connect this point of interest to the first flowers that were grown in outer space (the orange Zinnias) inside a spaces­ hip, where plants and gardens will play a promi­ nent role in alleviating the harshness of living in such a limited and claustrophobic space. Thus, Madaula attempts to explore how these two ideas connect and relate to Roeselare’s green spaces, the inhabitants who care for them, and their stories.
+
+Students from the master’s degree course in Sound Art (UB) hosted by Josep Cerdà, Josep Ma­ nuel Berenguer and Antonio Alcalde, the master’s degree course in Research in Art and Design (Eina­ UAB), and the Creation Workshop course, part of the degree in Fine Arts (UB), participated in the Voices project (part of the curatorial research).
 
 <!-- ![Martí Madaula Esquirol - A garden](/assets/images/rsl-cons-1.png)
 ![Martí Madaula Esquirol - A passage](/assets/images/rsl-cons-2.jpg)
