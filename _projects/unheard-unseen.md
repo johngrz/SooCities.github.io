@@ -1,8 +1,8 @@
 ---
 project_name: Unheard and Unseen
 project_author: Zsofia Szonja Illes
-project_thumb: bcn-un13-0.png
-project_images: bcn-un13-0.png
+project_thumb: bcn-un13-2.png
+project_images: bcn-un13-0.png, bcn-un13-1.png, bcn-un13-2.png
 project_short: un13
 city_short: bcn
 
@@ -11,9 +11,10 @@ layout: project
 ---
 
 Zsófia Szonja Illés’s soundscape project explores the margins of a city and a neighbourhood on the periphery through sound and the narrative of unseen, hidden, and unheard voices. These voices in her work include those on the spatial, social and environmental margins. Invisibility and silence are being explored through the layering of these three narratives: through environmental sound recordings, interviews and the artist’s own narration and reflection.
+
 Female narratives appear in the soundscape through the artist’s conversation with feminist urban designers. The perspectives of those living on the literal and social margins of the city are presented through interviews with social workers, while other-than-human voices speak the powerful metaphors of cohabitation, and translate what a horizontal society might feel like into a sonic experience.
 
-Her residency was held at first remotely, combining research and online conversations in order to understand the context and place.
+Zsófia's residency was held at first remotely, combining research and online conversations in order to understand the context and place. Her work asks the important question of whether – instead of the ethically questionable attempts of ‘giving voice’ – the unconscious of the city could be explored and understood through practices of listening and empathy building. Her sound piece inspires this kind of listening. 
 
 **Bio**
 
