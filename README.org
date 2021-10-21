@@ -1,0 +1,50 @@
+* Infrastructure
+
+  - [ ] https://soocities.github.io/barcelona
+  - [ ] https://github.com/SooCities/SooCities.github.io/projects/1
+
+
+  
+* Introduction
+
+Welcome to the ever-evolving, developer-led digital catalog of the Sound of our Cities project. One of the objectives of the project is technology transfer. AAU has made a template for showcasing the SooC sound works, and deployed the works online with a CC-License on [[https://github.com/][GitHub]]: a web-based platform for version control using =git=. You can think Github also as a social media for developers: users can collaborate on or adopt open-source projects, fork code, share ideas and more. Here, you can maintain, extend, augment your project after the SooC lifetime. It is also easy and free to set-up a GitHub account and host your own portfolio using [[http://thejackalofjavascript.com/github-pages-free-hosting/][GitHub-pages]].
+
+Simple prerequisite for these are:
+
+1. *Have a *[[https://github.com/][*/GitHub/*]] account.
+
+2. *Have knowledge on how to use *[[http://thejackalofjavascript.com/git-and-github-for-beginners/][*/Git and GitHub/*]].
+
+3. *Understand how *[[http://thejackalofjavascript.com/github-pages-free-hosting/][*/GitHub-pages/*]] work: Free hosting as well though this is not mandatory.
+
+
+* Contribute to the SooC Digital Catalog
+
+- Login to your GitHub account or [[https://github.com/][*create*]] one if you don't have any.
+
+- Navigate to https://github.com/SooCities/SooCities.github.io.
+  This Github repository is the back-end of our digital catalog https://SooCities.github.io/, and any changes you will make on the content will be published in a few minutes.
+
+- If you are familiar with Github development, then follow the [[https://github.com/SooCities/SooCities.github.io/wiki/Developer-Instructions][Developer Instructions at the SooC Wiki]].
+
+- If you are not familiar with editing, developing, and version-controlling at GitHub, then create an [[https://github.com/SooCities/SooCities.github.io/issues][Issue]]: Press the [[https://github.com/SooCities/SooCities.github.io/issues][Issues]] Tab next to "< > Code" on the above, and describe what you'd like to change and why. We will then
+
+  - reply with suggestions how to implement your change
+
+  - add you to the "Contributers" for future updates
+
+  - walk through the [[https://github.com/SooCities/SooCities.github.io/wiki/Developer-Instructions][Developer Instructions at the SooC Wiki]] for future contributions.
+
+
+* Make your own portfolio
+
+- Follow the steps in https://docs.github.com/en/pages/quickstart
+
+- [[https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-content-to-your-github-pages-site-using-jekyll#adding-a-new-page-to-your-site][Add content to your GitHub Pages site using Jekyll, as described in the GitHub Docs]]
+
+You can also extend your portfolio with templates from, e.g., [[http://startbootstrap.com/][*Start Bootstrap*]], [[http://bootstrapzero.com/][*Bootstrap Zero*]], [[https://www.themezy.com/][*Theme zy*]], [[https://bootstrapmade.com/demo/Folio/][*Bootstrapmade*]] *or any other place where you can download a quick portfolio template.
+
+
+* References
+
+- Brian Mwevi, 2018: [[https://medium.com/tunapanda-institute/8-steps-to-publish-your-portfolio-on-github-9d6e6e3d2e84][8 steps to publishing your portfolio on GitHub | by Brian Mwevi | Tunapanda Institute | Medium]]   
